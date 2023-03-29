@@ -254,7 +254,7 @@ class HomePage1 extends StatelessWidget {
                 Icons.chevron_right,
                 weight: 8,
                 color: Color(0xffB0BABF),
-              )),
+              ),),
         ],
       ),
     );
